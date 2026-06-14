@@ -60,10 +60,26 @@ Detail-oriented research and data professional with 1+ year of experience in sec
 
 ## SKILLS
 
-**Research & Analysis:** Secondary research, market research, statistical analysis, data modeling
-**Data Management:** Data quality assurance, data cleaning, record reconciliation, business intelligence reporting
-**Tools:** MS Excel, MS Word, PowerPoint, Microsoft 365, Power BI, SQL (basic querying), R & Python (data analysis)
-**Professional:** Report writing, stakeholder coordination, attention to detail, adaptability, proactive follow-up
+- Secondary research
+- Market research
+- Statistical analysis
+- Data modeling
+- Data quality assurance
+- Data cleaning
+- Record reconciliation
+- Business intelligence reporting
+- MS Excel
+- MS Word
+- PowerPoint
+- Microsoft 365
+- Power BI
+- SQL (basic querying)
+- R & Python (data analysis)
+- Report writing
+- Stakeholder coordination
+- Attention to detail
+- Adaptability
+- Proactive follow-up
 
 ---
 
