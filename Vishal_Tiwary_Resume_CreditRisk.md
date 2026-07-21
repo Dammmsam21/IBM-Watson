@@ -22,7 +22,7 @@ Credit risk professional with hands-on experience in credit appraisal, risk asse
 
 ## PROFESSIONAL EXPERIENCE
 
-### Incred Financial Services | Credit Risk Analyst
+### Incred Financial Services | Assistant Credit Manager 
 **Feb 2025 – Present**
 
 - **Evaluated creditworthiness** of borrowers across retail and SME asset classes using advanced credit scoring models, ensuring alignment with regulatory standards
